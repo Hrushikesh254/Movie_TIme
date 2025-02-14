@@ -18,4 +18,23 @@ A simple movie list web app where you can add and delete movies you want to watc
 3. Click "delete" to remove a movie from the list.  
 
 Enjoy managing your movie watchlist! 🎞️🍿  
+<p>--------------------------------------------------------</p>
+<p>Full Page Image <br>------------------</p>
+<img src="Full_Page.png" alt="Full_Page">
+<br>
+
+<p>*******************************************************************************************************************************************************</p>
+<p>Delete Movie from list <br>-------------------------</p>
+<img src="Delete_Movies.png" alt="Delete_Movies">
+<br>
+
+<p>*******************************************************************************************************************************************************</p>
+<p>Add Movies Button <br>---------------------</p>
+<img src="Add_Button.png" alt="Add_Button">
+<br>
+
+<p>*******************************************************************************************************************************************************</p>
+<p>New movie added in the list <br>------------------------------</p>
+<img src="Movie_Added.png" alt="Movie_Added">
+<br>
 
