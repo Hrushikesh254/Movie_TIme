@@ -18,3 +18,4 @@ A simple movie list web app where you can add and delete movies you want to watc
 3. Click "delete" to remove a movie from the list.  
 
 Enjoy managing your movie watchlist! 🎞️🍿  
+
